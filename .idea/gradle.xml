@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ClientModule" />
+            <option value="$PROJECT_DIR$/ModelModule" />
+            <option value="$PROJECT_DIR$/NetworkingModule" />
+            <option value="$PROJECT_DIR$/PersistenceModule" />
+            <option value="$PROJECT_DIR$/ServerModule" />
+            <option value="$PROJECT_DIR$/ServicesModule" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

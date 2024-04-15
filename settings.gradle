@@ -1,0 +1,9 @@
+rootProject.name = 'TransportRPCV4'
+include 'ModelModule'
+include 'PersistenceModule'
+include 'ServicesModule'
+include 'NetworkingModule'
+include 'ServerModule'
+//include 'ClientModule'
+include 'ClientModule'
+
